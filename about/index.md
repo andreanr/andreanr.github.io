@@ -9,15 +9,14 @@ comments: false
 
 ## Education
 
-**Columbia University****, *New York, NY  |  *Expected Dec 2019  
-**MS, Data Science   (Aug 2018 start)   
-**courses:* Deep Learning and Neural Networks, Algorithms, Exploratory Data Analysis and Visualization (using D3).
+**Columbia University**, New York, NY  |  Expected Dec 2019  
+MS, Data Science   (Aug 2018 start)   
+*courses:* Deep Learning and Neural Networks, Algorithms, Exploratory Data Analysis and Visualization (using D3).
 
 
-***
-***Instituto Tecnológico Autónomo de México, **Mexico City, MX  |  May 2014  
-**BS, Applied Mathematics  
-CGPA: 88/100}   
+**Instituto Tecnológico Autónomo de México**, Mexico City, MX  |  May 2014  
+BS, Applied Mathematics  
+CGPA: 88/100  
 *Thesis title:* Comparison of Urban Expansion Models with Machine Learning
 
 
