@@ -8,16 +8,18 @@ comments: false
 
 
 ## Education
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+
+{\bf Columbia University}, New York, NY \hfill {Expected Dec 2019}
+\\
+MS, Data Science   (Aug 2018 start) \\
+\textit{courses:} Deep Learning and Neural Networks, Algorithms, Exploratory Data Analysis and Visualization (using D3).
+
+{\bf Instituto Tecnológico Autónomo de México}, Mexico City, MX \hfill {May 2014}
+\\
+BS, Applied Mathematics
+\hfill {CGPA: 88/100} \\
+\textit{Thesis title: Comparison of Urban Expansion Models with Machine Learning}
+
 
 ## Work Experience
 
